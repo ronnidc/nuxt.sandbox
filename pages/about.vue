@@ -3,13 +3,13 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt.sandbox
+        About this
       </h1>
       <h2 class="subtitle">
-        Playing with the basic features and best practices from Nuxt
+        About playing with Nuxt
       </h2>
       <div class="links">
-        <a href="/about" class="button--grey">About</a>
+        <a href="/" class="button--grey">Frontpage</a>
         <a href="https://nuxtjs.org/" target="_blank" class="button--green"
           >Documentation</a
         >
