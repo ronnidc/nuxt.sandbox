@@ -1,5 +1,7 @@
 # nuxt.sandbox
 
+*Archived April 25. 2023. Outdated*
+
 > Playing with the basic features and best practices from Nuxt
 
 ## Build Setup
